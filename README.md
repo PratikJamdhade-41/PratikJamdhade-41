@@ -62,7 +62,7 @@ Driven by curiosity. Focused on mastering cybersecurity and building real-world 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=pratikjamdhade-41&theme=tokyonight"/>
 
 </p>
 
@@ -108,7 +108,7 @@ Driven by curiosity. Focused on mastering cybersecurity and building real-world 
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikjamdhade-41&theme=tokyo-night"/>
 
 </p>
 
@@ -118,7 +118,7 @@ Driven by curiosity. Focused on mastering cybersecurity and building real-world 
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=pratikjamdhade-41&color=blue"/>
 
 </p>
 
@@ -126,8 +126,8 @@ Driven by curiosity. Focused on mastering cybersecurity and building real-world 
 
 # 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com
+* GitHub: https://github.com/pratikjamdhade-41
+* LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/pratik-jamdhade-70900233b)
 * Email: [pratikjamdhade41@email.com](mailto:pratikjamdhade41@email.com)
 
 ---
