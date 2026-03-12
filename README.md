@@ -13,7 +13,7 @@ Driven by curiosity. Focused on mastering cybersecurity and building real-world 
 * 🔐 Passionate about **Cybersecurity & Ethical Hacking**
 * 🌐 Learning **Web Application Security**
 * 🐍 Building automation tools using **Python**
-* 🐧 Linux enthusiast and terminal lover
+* 🐧 Linux enthusiast and terminal user
 * 🎯 Goal: Become a **Professional Penetration Tester**
 
 ---
