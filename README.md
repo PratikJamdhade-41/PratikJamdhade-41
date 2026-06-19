@@ -88,21 +88,6 @@ Driven by curiosity. Focused on mastering cybersecurity and building real-world 
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔐 Security Tools
-
-* Web Vulnerability Scanner
-* Recon Automation Tool
-* Payload Generator
-
-### 🌐 Web Applications
-
-* Secure Chat Application
-* OTP Authentication System
-* Cybersecurity Learning Platform
-
----
 
 # 📈 Contribution Graph
 
